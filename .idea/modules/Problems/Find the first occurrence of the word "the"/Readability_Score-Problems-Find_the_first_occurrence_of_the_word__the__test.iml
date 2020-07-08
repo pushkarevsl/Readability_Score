@@ -7,7 +7,7 @@
     <content url="file://$MODULE_DIR$/../../../../Problems/Find the first occurrence of the word &quot;the&quot;/test" />
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="module" module-name="Problems-Find_the_first_occurrence_of_the_word__the__main" />
+    <orderEntry type="module" module-name="Readability_Score-Problems-Find_the_first_occurrence_of_the_word__the__main" />
     <orderEntry type="library" name="Gradle: com.github.hyperskill:hs-test:v7.0.1" level="project" />
     <orderEntry type="library" name="Gradle: com.github.stefanbirkner:system-rules:1.19.0" level="project" />
     <orderEntry type="library" name="Gradle: junit:junit:4.12" level="project" />
